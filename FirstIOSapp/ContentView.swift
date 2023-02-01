@@ -37,7 +37,11 @@ struct ContentView: View {
                    
                 Text("Student Assistant")
             }
+            .offset(y:-30)
+            .fontWeight(.bold)
             .font(.title)
+
+            
             
             
                 
